@@ -1,2 +1,22 @@
-# pokemon-app
-Pokemon information application with React frontend
+# Pokemon App
+
+Приложение для просмотра информации о покемонах на React.
+
+## Функции
+
+-  Список покемонов
+- Поиск по имени и типу
+-  Случайный покемон
+-  Информация о характеристиках
+
+## Технологии
+
+- React 18
+- Vite
+- Docker
+- Docker Compose
+
+## Запуск
+
+```bash
+docker-compose up --build
